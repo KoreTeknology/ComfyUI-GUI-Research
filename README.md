@@ -17,6 +17,6 @@ Here, i want to present specific [topics](#):
 
 ## :radio_button: Preliminary observations
 
-Using pipelines for automation allows building complex workflows, using source, processing and output nodes. Nodes can be categorized into several types, simple nodes which only offer one type of data and complex nodes which manage several types of data (example: images and text). In most cases it is possible to group nodes together to build a single, ready-to-use node. But it is not possible at the time of this document to edit the content of grouped nodes. This is therefore one of the strong points of this research.
+Using pipelines for automation allows building complex workflows, using source, processing and output nodes. Nodes can be categorized into several types, simple nodes which only offer one type of data and complex nodes which manage several types of data (example: images and text). In most cases it is possible to group nodes together to build a single, ready-to-use node. But it is not possible at the time of this document to edit the content of grouped nodes. This is therefore one of the strong points of this research. see [here](grouped_nodes.md)
 
 [^1]: **ComfyUI** is the free and open source software
