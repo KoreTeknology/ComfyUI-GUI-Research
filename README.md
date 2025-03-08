@@ -10,7 +10,7 @@ A collection of ideas and research about ComfyUI Open Source Software, mainly or
 This current documentation is intended to present various concepts and research papers about **ComfyUI**[^1], an open source software, node based editor and automation pipeline builder.
 
 Here, i want to present specific [features](#):
-- **Media Productivity**[^3], including audio and Video editing, Animations, VFX Post-production...
+- **Media Productivity**, including audio and Video editing, Animations, VFX Post-production...
 - **Custom nodes Structure**, including control panels and columns
 - **Javascript Extensions**, including themes, controls and previews
 
