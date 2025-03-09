@@ -1,7 +1,7 @@
-# ComfyUI GUI Research by NAI-00 [uriel Deveaud]
+# ComfyUI GUI Research
 A collection of ideas and research about ComfyUI Open Source Software, mainly oriented towards GUI and basic features
 
-> **Work in Progress** [Last Updated: 08-03-2025]()
+> **Work in Progress** [Last Updated: 08-03-2025]() - by NAI-00 [uriel Deveaud]
 
 <img src="https://img.shields.io/badge/Comfy-UI-red" /> <img src="https://img.shields.io/badge/User-Interface-purple" /> <img src="https://img.shields.io/badge/Gsoc-2025-blue" /> 
 
